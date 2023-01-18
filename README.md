@@ -48,7 +48,7 @@ As an input, the user enters information about the pathogen (species, strain), a
 ### At what step is the project right now?
 At this step, preprocessing, exploratory data analysis was done, Random Forrest Regressor was chosen as the optimal model. The general model was trained and also individual models for each bacteria. **Leave-one-out CV** was used for a validation. **One-hot encoding** was applied to all those columns where the values are not in numbers.
 ### What are the next steps?
-+ The database needs to be enlarged, because now there is enough data for only two bacteria - semi-purulent coli and E. coli;
++ The database needs to be enlarged, because now there is enough data for only two bacteria - Pseudomonas aeruginosa and Escherichia coli;
 + Writing a genetic algorithm and combining it with the ML;
 + Optimization;
 + Backend and frontend of a service; article writing;
