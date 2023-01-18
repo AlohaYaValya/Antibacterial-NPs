@@ -56,3 +56,5 @@ At this step, preprocessing, exploratory data analysis was done, Random Forrest 
 + There are too many duplicates in the database, but nevertheless the number of repetitions has become quite an important factor later on. Even judging logically, the more times the experiment was repeated and its result was confirmed, the more reliable this data is when compared with those that were obtained as a result of one experiment;
 + There were gaps in the particle shape and coating columns, which I was able to fill in later;
 + After removing duplicates, the number of rows decreased by more than 10 times.
+# References
+The database was taken from the article: *Ortega-Tenezaca, B., & Gonzalez-Diaz, H. (2020). IFPTML Mapping of Nanoparticles Antibacterial Activity vs. Pathogens Metabolic Networks. Nanoscale.* doi: [10.1039/d0nr07588d](https://doi.org/10.1039/D0NR07588D) 
